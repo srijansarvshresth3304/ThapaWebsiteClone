@@ -249,6 +249,7 @@ header {
     list-style-type: none;
     justify-content: space-between;
     color: #d69654;
+    margin-top: 10vh;
 }
 #what-i-do-top {
     display: flex;
